@@ -1,22 +1,23 @@
-##Tablut – Jeu & Intelligence Artificielle (Java)
+## Tablut – Jeu & Intelligence Artificielle (Java)
 Ce projet implémente le jeu Tablut avec :
  -une IA jouable (algorithmes de recherche / heuristiques)
  - un mode réseau via un serveur central
  - une architecture modulaire (moteur de jeu, IA, réseau)
  - un système de build via make
 
-##Fonctionnalités principales
+## Fonctionnalités principales
 IA utilisant des stratégies de recherche (minimax/heuristiques)
 Mode multijoueur réseau avec serveur central
 Exécution console
 Build automatisé via Makefile
 
-##Compilation & exécution
+## Compilation & exécution
  
- #Compilation + exécution
+ # Compilation + exécution
+ 
  make run
 
- #Commandes annexes
+ # Commandes annexes
 
 - Compiler uniquement :
 make
