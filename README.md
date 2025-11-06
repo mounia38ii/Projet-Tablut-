@@ -14,7 +14,8 @@ Build automatisé via Makefile
 ##Compilation & exécution
  
  #Compilation + exécution
-make run
+ make run
+
  #Commandes annexes
 
 - Compiler uniquement :
